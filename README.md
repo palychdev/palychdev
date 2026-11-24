@@ -3,12 +3,12 @@
 <h1 align="center">palych.dev</h1>
 
 <p align="center">
-  <strong>I take software apart to understand it.<br>
+  <strong>I take software apart.<br>
   I build the tools I wish existed.</strong>
 </p>
 
 <p align="center">
-  <samp>Reverse engineering / Application security / Automation</samp>
+  <samp>Reverse&nbsp;engineering · Application&nbsp;security · Automation</samp>
 </p>
 
 <p align="center">
